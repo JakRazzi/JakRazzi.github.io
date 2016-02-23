@@ -234,3 +234,9 @@
         }
     }
 }
+
+.give-shadow {
+    -webkit-box-shadow: 0 0 60px #000;
+    -moz-box-shadow: 0 0 60px #000;
+    box-shadow: 0 0 60px #000;
+}
