@@ -8,11 +8,11 @@ image: /assets/article_images/2016-02-23-setting-sail-for-hack-reactor-remote/se
 image2: /assets/article_images/2016-02-23-setting-sail-for-hack-reactor-remote/setting-sail-mobile.jpg
 ---  
 
-#Setting Sail for Hack Reactor Remote
+# Setting Sail for Hack Reactor Remote  
 
 In less than one week, I begin my Hack Reactor journey-- 11 hours a day, 6 days a week, for 3 months. I've already spent countless hours studying front-end web development, and when I complete the course, I will be a full-stack software engineer with over 800 hours of experience.  
 
-###So how did I get here?  
+### So how did I get here?  
 
 A lot of studying, mostly. I come from no programming background whatsoever, but I recently discovered a passion for it. I used to always think that programming wasn't for me (despite my computer-savvy background), but when I actually started getting into it, I discovered that it was everything I love! I have the opportunity to think on my feet creatively about a problem and solve the puzzle-- all while working toward the greater goal of creating a program or website from nothing.  
 
@@ -22,7 +22,7 @@ I wasn't sure what to expect for that.
 
 So I studied. While working my full-time job, I put in over 100 hours of learning JavaScript in a three-week period to prepare for the interview. When it finally came time to test my abilities, I drank way too much coffee and met my interviewer on skype with caffeine and adrenaline in my veins. My interviewer was very nice, and after we talked a bit, we dove right in to programming. I left the interview feeling really good about it and recieved my acceptance letter the next day!  
 
-###Here's how I prepared:  
+### Here's how I prepared:  
 
 If you're interested in Hack Reactor or you're getting ready for your own Technical Interview, then I'm sure you're wondering if you're ready. Some of the things I mention will be talked about in other places, but this is what I did to get ready:  
 
@@ -35,10 +35,10 @@ If you're interested in Hack Reactor or you're getting ready for your own Techni
 
 If you can do all of that AND understand it, then I would say you're ready to blow the interview out of the water.  
 
-###What now?  
+### What now?  
 
 It's been a lot of fun so far, and soon I'll be so engrossed in this program that free time will be a pleasant memory of times gone by. If I have the opportunity, then I'll update this blog with my progress through the course, and I might even teach some of the things I'm learning here. Until then, the wind is at my back, and my sails are full.  
 
-###One last thing...  
+### One last thing...  
 
 Don't worry about recursion too much. That's a rabbit hole I fell down that I still haven't quite climbed out of yet.  
