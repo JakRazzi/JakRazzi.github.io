@@ -8,12 +8,12 @@ image: /assets/article_images/2016-02-23-setting-sail-for-hack-reactor-remote/se
 image2: /assets/article_images/2016-02-23-setting-sail-for-hack-reactor-remote/setting-sail-mobile.jpg
 ---   
 
-**In three days, I begin my Hack Reactor journey--**
+### In three days, I begin my Hack Reactor journey--  
 11 hours a day, 6 days a week, for 3 months. I've already spent countless hours studying front-end web development, and when I complete the course, I will be a full-stack software engineer with over 800 hours of experience-- more than a typical CS Undergraduate.  
 
 ### Why did I choose Hack Reactor, and what is it?
 
-[Hack Reactor](http://www.hackreactor.com/) is considered by many to be the Harvard of software engineering bootcamps. It is a program that is designed to make you an in-demand software engineer that is ahead of the curve in today's job market. The accellerated program runs for 13 weeks and boasts a 99% graduate hiring rate as well as a $105k starting salary (and yes, those claims hold up after poking around).
+[Hack Reactor](http://www.hackreactor.com/) is considered by many to be the Harvard of software engineering bootcamps. It is a program that is designed to make you an in-demand software engineer that is ahead of the curve in today's job market. The accelerated program runs for 13 weeks and boasts a 99% graduate hiring rate as well as a $105k starting salary (and yes, those claims hold up after poking around).
 
 I spent a lot of time and effort investigating Hack Reactor, and found out that it's the real deal. Lot's of programming bootcamps have gotten a bad reputation, but Hack Reactor has consistently remained above the crowd. This level of excellence can even be seen in their application process.
 
