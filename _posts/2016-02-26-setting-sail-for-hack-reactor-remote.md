@@ -4,8 +4,8 @@ title: "Setting Sail for Hack Reactor Remote"
 date: 2016-02-26 15:04:00
 categories: hrr feature
 tags: featured
-image: /assets/article_images/2016-02-23-setting-sail-for-hack-reactor-remote/setting-sail.jpg
-image2: /assets/article_images/2016-02-23-setting-sail-for-hack-reactor-remote/setting-sail-mobile.jpg
+image: /assets/article-images/2016-02-26-setting-sail-for-hack-reactor-remote/setting-sail.jpg
+image2: /assets/article-images/2016-02-26-setting-sail-for-hack-reactor-remote/setting-sail-mobile.jpg
 ---   
 
 ### In three days, I begin my Hack Reactor journey--  
