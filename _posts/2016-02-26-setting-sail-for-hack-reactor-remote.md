@@ -6,6 +6,7 @@ categories: hrr feature
 tags: featured
 image: /assets/article-images/2016-02-26-setting-sail-for-hack-reactor-remote/setting-sail.jpg
 image2: /assets/article-images/2016-02-26-setting-sail-for-hack-reactor-remote/setting-sail-mobile.jpg
+image2-align: 10%
 ---   
 
 ### In three days, I begin my Hack Reactor journey--  

@@ -6,6 +6,8 @@ categories: hrr
 tags:
 image: /assets/article-images/2016-02-26-preparing-for-hack-reactor/terminal-sublime-blurred.jpg
 image2: /assets/article-images/2016-02-26-preparing-for-hack-reactor/terminal-sublime-blurred-mobile.jpg
+image-align: right
+image2-align: 82%
 ---
 
 ### Worried about your technical interview?

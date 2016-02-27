@@ -9,10 +9,10 @@
       <article class="post">
         {% if page.image %}
         <div class="article-image">
-          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image }}{% endif %})">
+          <div class="post-image-image" style="background-image: url({% if page.image %}{{ page.image }}{% endif %}); background-position: {% if page.image-align %}{{ page.image-align }}{% endif %}">
             Article Image
           </div>
-          <div class="post-image-image2" style="background-image: url({% if page.image2 %}{{ page.image2 }}{% endif %})">
+          <div class="post-image-image2" style="background-image: url({% if page.image2 %}{{ page.image2 }}{% endif %}); background-position: {% if page.image2-align %}{{ page.image2-align }}{% endif %}">
             Article Image
           </div>
           <div class="post-meta">
