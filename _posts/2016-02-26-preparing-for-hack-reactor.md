@@ -4,8 +4,8 @@ title: "Preparing for Hack Reactor?"
 date: 2016-02-26 15:56:00
 categories: hrr
 tags:
-image: /assets/article-images/2016-02-26-preparing-for-hack-reactor/hack-reactor-logo.png
-image2: /assets/article-images/2016-02-26-preparing-for-hack-reactor/hack-reactor-logo-mobile.png
+image: /assets/article-images/2016-02-26-preparing-for-hack-reactor/terminal-sublime-blurred.png
+image2: /assets/article-images/2016-02-26-preparing-for-hack-reactor/terminal-sublime-blurred-mobile.png
 ---
 
 ### Worried about your technical interview?
