@@ -24,26 +24,33 @@ paginate:	5
 url: "/" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-# twitter_handle: '@dirkfabisch'
+twitter_handle: '@jakrazzi'
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: jakrazzi
 
 # social icons and sharing options
 social:
-  # - icon:	twitter
-  #   url:	https://twitter.com/dirkfabisch
-  #   desc: Follow me on twitter
-  #   share_url: http://twitter.com/share
-  #   share_title: ?text=
-  #   share_link: "&amp;url="
+  - icon:	twitter
+    url:	
+    desc: 
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
 
-  # - icon:	facebook
-  #   url:	https://facebook.com/???
-  #   desc: Connect with me facebook
-  #   share_url: https://www.facebook.com/sharer.php
-  #   share_title: ?t=
-  #   share_link: "&amp;u="
+  - icon: facebook
+    url:  
+    desc: 
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	linkedin
+    url:	https://linkedin.com/in/jakrazzi
+    desc: Connect with me on LinkedIn
+    share_url: 
+    share_title: 
+    share_link: 
 
   - icon:	github
     url:	https://github.com/jakrazzi
@@ -52,9 +59,9 @@ social:
     share_title:
     share_link:
 
-  - icon:	google-plus
-    url:	https://google.com/jakrazzi
-    desc:	Add me on google+
-    share_url:
-    share_title:
-    share_link:
+  # - icon:	google-plus
+  #   url:	https://google.com/jakrazzi
+  #   desc:	Add me on google+
+  #   share_url:
+  #   share_title:
+  #   share_link:
