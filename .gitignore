@@ -2,3 +2,4 @@
 assets/.DS_Store
 _site
 .sass-cache
+_dev
