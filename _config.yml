@@ -1,5 +1,5 @@
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 gems:
   - jemoji
   - jekyll-paginate
