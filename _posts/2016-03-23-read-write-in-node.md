@@ -35,18 +35,22 @@ fs.writeFile('~/Documents/file.txt', 'Hello World!', function(error) {
     console.log('Writing file complete!');
   }
 });
+
+// > 'Writing file complete!'
 ~~~  
   
-fs.readFile is similar, but instead returns the contents of a given file. It takes a file path argument, an [optional] options argument, and a callback (again, which will be called upon completion of reading the file and will provide any error information). Here's an example of that:
+fs.readFile is similar, but instead returns the contents of a given file. It takes a file path argument, an [optional] options argument, and a callback (again, which will be called upon completion of reading the file and will provide any error information as well as the contents of the file). Here's an example of that:
 
 ~~~javascript
-fs.readFile('~/Documents/file.txt', function(error) {
+fs.readFile('~/Documents/file.txt', function(error, contents) {
   if (error) {
     console.log(error);
+  } else {
+  console.log(contents);
   }
 });
 
-// returns 'Hello World!'
+// > 'Hello World!'
 ~~~  
   
 So that's the basics of reading and writing files in Node.js!
