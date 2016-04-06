@@ -2,7 +2,7 @@
 layout: post
 title: "Preparing for Hack Reactor?"
 date: 2016-02-26 15:56:00
-categories: hrr
+categories:
 tags:
 image: /assets/article-images/2016-02-26-preparing-for-hack-reactor/terminal-sublime-blurred.jpg
 image2: /assets/article-images/2016-02-26-preparing-for-hack-reactor/terminal-sublime-blurred-mobile.jpg
