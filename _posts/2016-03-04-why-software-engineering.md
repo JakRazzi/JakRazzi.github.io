@@ -2,7 +2,7 @@
 layout: post
 title: "Why Software Engineering?"
 date: 2016-03-04
-categories: 
+categories: feature
 tags: 
 image: /assets/article-images/2016-03-04-why-software-engineering/cave.jpg
 image2: /assets/article-images/2016-03-04-why-software-engineering/cave-mobile.jpg
