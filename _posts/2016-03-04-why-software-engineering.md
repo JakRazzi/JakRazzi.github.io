@@ -15,7 +15,7 @@ Go somewhere that humankind has never touched before? Software engineering can b
 
 This is part of the reason I so quickly fell in love with programming. I've always been an explorer, and engineering constantly brings me to new challenges and new discoveries. Every time I embark on a new project, I feel as though I'm lighting up a torch to peer into a great cavern filled with adventure.
 
-When we encounter dead-ends on this journey, we have to find a new way to continue going. Solving these problems is as much an art as it is a science. At first our solutions will be crude - just blow up the obstacle to keep going - but these solutions inevitable lead to cave-ins down the line.
+When we encounter dead-ends on this journey, we have to find a new way to continue going. Solving these problems is as much an art as it is a science. At first our solutions will be crude - just blow up the obstacle to keep going - but these solutions inevitably lead to cave-ins down the line.
 
 As our skills grow, however, we develop an intuition for finding new and beautiful solutions to these obstacles.
 
