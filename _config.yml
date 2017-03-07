@@ -7,7 +7,7 @@ gems:
 # Site settings
 title: "Jak Buttarazzi"
 description: > # this means to ignore newlines until "email:"
-   A Software Engineering Student at Hack Reactor
+   Software Engineer at NetApp
 
 email: JakRazzi@gmail.com
 #blog logo
